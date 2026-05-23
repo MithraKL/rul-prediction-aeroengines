@@ -73,9 +73,6 @@ Evaluation: RMSE, R², PICP, MPIW
 rul-prediction-aeroengines/
 ├── notebooks/
 │   └── rul-prediction-of-aeroengines.ipynb   # Main notebook (full pipeline)
-├── report/
-│   ├── RUL_Complete_Report_Dhanush.pdf        # Full project report
-│   └── Final_RUL_Presentation.pptx           # Presentation slides
 ├── data/
 │   └── README_data.md                        # Dataset download instructions
 ├── requirements.txt
@@ -115,7 +112,7 @@ Update the data path at the top of the notebook accordingly.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/rul-prediction-aeroengines.git
+git clone https://github.com/MithraKL/rul-prediction-aeroengines.git
 cd rul-prediction-aeroengines
 pip install -r requirements.txt
 ```
