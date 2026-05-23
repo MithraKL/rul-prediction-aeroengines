@@ -157,6 +157,5 @@ pip install -r requirements.txt
 
 - Saxena et al. (2008) — C-MAPSS dataset paper
 - Deepika J et al. (2025) — XGBoost baseline (ICMCSI-2025)
-- Full references in `report/RUL_Complete_Report_Dhanush.pdf`
 
 ---
