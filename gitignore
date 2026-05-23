@@ -1,0 +1,50 @@
+# ── Dataset files (too large, not redistributable) ──────────────────────────
+data/*.txt
+data/*.csv
+data/*.zip
+
+# ── Saved model pipelines ────────────────────────────────────────────────────
+*.pkl
+*.pickle
+*.joblib
+models/
+saved_models/
+
+# ── Jupyter Notebook artifacts ───────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ── Python cache ─────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+venv/
+env/
+.env/
+.venv/
+
+# ── OS files ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE / editor ──────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ── Output / temp files ───────────────────────────────────────────────────────
+outputs/
+*.log
+*.tmp
+
+# ── Kaggle / Colab artifacts ──────────────────────────────────────────────────
+kaggle.json
+/kaggle/working/
